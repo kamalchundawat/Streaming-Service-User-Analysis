@@ -44,3 +44,7 @@ The main objective is to identify business insights from customer data and prese
 
 ## Conclusion
 This project demonstrates Excel-based business analytics skills by converting raw streaming service data into useful insights, dashboards, and presentation-ready recommendations.
+
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
